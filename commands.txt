@@ -1,5 +1,7 @@
+ HEAD
 git clone - клонирование репозитория
 git pull - получение изменений
 git push - отправка изменений
 git branch - Просмотр веток
 git merge - Объединение веток
+ c060a3cf68afaaa13f524575d555ce9d6c41dc5c
